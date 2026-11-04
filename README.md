@@ -21,7 +21,7 @@ Both links always point to the newest build.
 ## What's in the demo
 
 - A tutorial with the Skate Guru
-- Three levels on the bridge to Lanka
+- Four levels on the bridge to Lanka
 - Surasa, a four-phase boss fight
 - Endless mode
 - The King's Stall, a cosmetics shop paid for with bananas you earn by skating
